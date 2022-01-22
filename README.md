@@ -1,24 +1,17 @@
-# fireblogs
+# Blog VUE
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Link demo: [Blog VUE](https://sylax-blog-vue.netlify.app/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologías usadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Vue JS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 20%; height: 20% "/>
+
+### Firebase
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png?hl=es-419"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 30%; height: 30% "/>
